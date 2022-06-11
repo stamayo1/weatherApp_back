@@ -2,7 +2,6 @@
 
 Mediante un api creada en .NET, se realiza el servicio de autenticación y registro de usuario, además de guardar en base de datos el historial de consultas realizadas. 
 
-* [Video de la ejecución del aplicativo](./evidencia/)
 
 ## Ejecución local
 
